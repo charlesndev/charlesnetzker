@@ -1,4 +1,4 @@
-## Olá, eu sou o Charles e sou apaixonado por tecnologia e atualmente estou estudando Desenvolvimento de software com foco em BACK END na Cubos academy,
+# Olá, eu sou o Charles e sou apaixonado por tecnologia e atualmente estou estudando Desenvolvimento de software com foco em BACK END na Cubos academy,
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesnetzker/)
 
